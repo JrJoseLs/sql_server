@@ -1,0 +1,5 @@
+Intalacion sql 2019
+https://www.youtube.com/watch?v=YOaC_TyOrdk
+
+Respladar, actualizar y restaurar database
+https://www.youtube.com/watch?v=ljYuyqu2pYg
